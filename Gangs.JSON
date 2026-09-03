@@ -44,14 +44,14 @@
     "Items":["Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"]
   },
   {
-    "Grupo":5,
+    "Grupo":755862819,
     "MinRank":5,
     "GangNome":"Heiwa",
     "MaxHealth":40000,
     "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
-    "Items":["DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","Rinne","CorteCircular","pisao","ChuteKoku","SocoFlamejante","Mundo","Susanoo_Tokyo"]
+    "Items":["DoubleJump","Susanoo","Kokusen"]
   },
 {
     "Grupo":6,
