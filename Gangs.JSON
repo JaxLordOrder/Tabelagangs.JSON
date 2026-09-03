@@ -24,7 +24,7 @@
     "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
-    "Grupo":35489912,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Red Dead Redemption",
     "MaxHealth":10000,
@@ -34,7 +34,7 @@
     "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
-    "Grupo":35371915,
+    "Grupo":,
     "MinRank":2,
     "GangNome":"Blue Lock",
     "MaxHealth":5000,
@@ -54,7 +54,7 @@
     "Items":["DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","Rinne","CorteCircular","pisao","ChuteKoku","SocoFlamejante","Mundo","Susanoo_Tokyo"]
   },
 {
-    "Grupo":916548506,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Crimson Nebula",
     "MaxHealth":750,
@@ -64,7 +64,7 @@
     "Items":["SocoEletrico","Kokusen","Rinnegan","Mundo"]
 },
 {
-    "Grupo":11199941,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Kanto Manji Gang ギャング",
     "MaxHealth":9999999,
@@ -74,7 +74,7 @@
     "Items":["CorteCircular","Mundo","Kunai","Impulso","CorteCircular","pisao"]
 },
 {
-    "Grupo":774995671,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Os Hashiras",
     "MaxHealth":750,
@@ -84,7 +84,7 @@
     "Items":["DashCorvo","ChuteEletrico","SusanooT"]
 },
 {
-    "Grupo":765566780,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Los Calvitos",
     "MaxHealth":750,
@@ -94,7 +94,7 @@
     "Items":["CorteCircular","Mundo","Kunai","Impulso"]
 },
 {
-    "Grupo":17198683,
+    "Grupo":,
     "MinRank":28,
     "GangNome":"Renegados",
     "MaxHealth":3000,
@@ -104,7 +104,7 @@
     "Items":["CorteCircular","Mundo","Kunai","Impulso","IceParadise","ChuteVoador"]
 },
 {
-    "Grupo":35280816,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Capivaras Verificadas",
     "MaxHealth":750,
@@ -114,7 +114,7 @@
     "Items":["CorteCircular","Mundo","CollateralRuin"]
 },
 {
-    "Grupo":8715649,
+    "Grupo":,
     "MinRank":10,
     "GangNome":"Birgulinhas",
     "MaxHealth":10000,
@@ -124,7 +124,7 @@
     "Items":["Susanoo","Raio","CorteCircular"]
 },
 {
-  "Grupo":977493686,
+  "Grupo":,
   "MinRank":1,
   "GangNome":"Moebius",
   "MaxHealth":750,
@@ -148,7 +148,7 @@
     }
 },
 {
-    "Grupo":970870505,
+    "Grupo":,
     "MinRank":1,
     "GangNome":"Valhalla",
     "MaxHealth":10000,
