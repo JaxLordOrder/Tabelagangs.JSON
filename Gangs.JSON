@@ -61,7 +61,7 @@
     "Nome":{"Letraakakakaka":[177,156,217],"Borda":[255,255,255]},
     "Patente":{"Letraakakakaka":[177,156,217],"Borda":[255,255,255]},
     "Team":{"Letraakakakaka":[177,156,217],"Borda":[255,255,255]},
-    "Items":["Susanoo","Kokusen","Rinnegan","Mundo"]
+    "Items":["Susanoo","Kokusen","Rinnegan","ChuteKoku","CollateralRuin"]
 },
 {
     "Grupo":11,
@@ -134,14 +134,14 @@
  "Items":["CollateralRuin","Susanoo","Kunai","ChuteVento"]
 },
 {
-    "Grupo": 145,
+    "Grupo": 35080558,
     "MinRank":1,
     "GangNome":"Tokyo Manji",
     "MaxHealth":1000000,
     "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
-    "Items":["Rinne","Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","ChuteKoku","hu","Hino","Raio"],
+    "Items":["Rinne","Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","pisao","IceParadise","CollateralRuin","ChuteKoku","hu","Hino","Raio"],
     "adicionais":{
       "Shirt":113911762663024,
       "Pants":15767462935
