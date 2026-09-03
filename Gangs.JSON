@@ -1,13 +1,13 @@
 [
   {
-    "Grupo":1,
-    "MinRank":15,
-    "GangNome":"Máfia da Passione",
+    "Grupo":363942478,
+    "MinRank":1,
+    "GangNome":"SoledBy",
     "MaxHealth":5000,
     "Nome":{"Letraakakakaka":[255,255,255],"Borda":[255,255,0]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[153,0,153]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
-    "Items":["Rinne","Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","ChuteKoku","hu","Hino"],
+    "Items":["Rinne","Susanoo"],
     "adicionais":{
       "Shirt":12601347767,
       "Pants":1083479115
