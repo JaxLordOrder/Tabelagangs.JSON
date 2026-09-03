@@ -1,6 +1,6 @@
 [
   {
-    "Grupo":34782392,
+    "Grupo":1,
     "MinRank":15,
     "GangNome":"Máfia da Passione",
     "MaxHealth":5000,
@@ -14,7 +14,7 @@
     }
   },
   {
-    "Grupo":33345163,
+    "Grupo":1,
     "MinRank":199,
     "GangNome":"Eternity Order",
     "MaxHealth":10000,
@@ -24,7 +24,7 @@
     "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
-    "Grupo":35489912,
+    "Grupo":1,
     "MinRank":1,
     "GangNome":"Red Dead Redemption",
     "MaxHealth":10000,
@@ -34,7 +34,7 @@
     "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
-    "Grupo":35371915,
+    "Grupo":3,
     "MinRank":2,
     "GangNome":"Blue Lock",
     "MaxHealth":5000,
@@ -44,7 +44,7 @@
     "Items":["Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"]
   },
   {
-    "Grupo":755862819,
+    "Grupo":5,
     "MinRank":5,
     "GangNome":"Heiwa",
     "MaxHealth":40000,
@@ -54,7 +54,7 @@
     "Items":["DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","Rinne","CorteCircular","pisao","ChuteKoku","SocoFlamejante","Mundo","Susanoo_Tokyo"]
   },
 {
-    "Grupo":916548506,
+    "Grupo":6,
     "MinRank":1,
     "GangNome":"Crimson Nebula",
     "MaxHealth":750,
@@ -64,7 +64,7 @@
     "Items":["SocoEletrico","Kokusen","Rinnegan","Mundo"]
 },
 {
-    "Grupo":11199941,
+    "Grupo":11,
     "MinRank":1,
     "GangNome":"Kanto Manji Gang ギャング",
     "MaxHealth":9999999,
@@ -74,7 +74,7 @@
     "Items":["CorteCircular","Mundo","Kunai","Impulso","CorteCircular","pisao"]
 },
 {
-    "Grupo":774995671,
+    "Grupo":77,
     "MinRank":1,
     "GangNome":"Os Hashiras",
     "MaxHealth":750,
@@ -84,7 +84,7 @@
     "Items":["DashCorvo","ChuteEletrico","SusanooT"]
 },
 {
-    "Grupo":765566780,
+    "Grupo":765,
     "MinRank":1,
     "GangNome":"Los Calvitos",
     "MaxHealth":750,
@@ -94,7 +94,7 @@
     "Items":["CorteCircular","Mundo","Kunai","Impulso"]
 },
 {
-    "Grupo":17198683,
+    "Grupo":17,
     "MinRank":28,
     "GangNome":"Renegados",
     "MaxHealth":3000,
@@ -104,7 +104,7 @@
     "Items":["CorteCircular","Mundo","Kunai","Impulso","IceParadise","ChuteVoador"]
 },
 {
-    "Grupo":35280816,
+    "Grupo":35,
     "MinRank":1,
     "GangNome":"Capivaras Verificadas",
     "MaxHealth":750,
@@ -114,7 +114,7 @@
     "Items":["CorteCircular","Mundo","CollateralRuin"]
 },
 {
-    "Grupo":8715649,
+    "Grupo":871,
     "MinRank":10,
     "GangNome":"Birgulinhas",
     "MaxHealth":10000,
@@ -124,7 +124,7 @@
     "Items":["Susanoo","Raio","CorteCircular"]
 },
 {
-  "Grupo":977493686,
+  "Grupo":9774,
   "MinRank":1,
   "GangNome":"Moebius",
   "MaxHealth":750,
@@ -141,14 +141,14 @@
     "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
-    "Items":["CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","SocoFlamejante","IceParadise","ChuteVoador"],
+    "Items":["Rinne","Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","ChuteKoku","hu","Hino"],
     "adicionais":{
       "Shirt":113911762663024,
       "Pants":15767462935
     }
 },
 {
-    "Grupo":970870505,
+    "Grupo":97,
     "MinRank":1,
     "GangNome":"Valhalla",
     "MaxHealth":10000,
