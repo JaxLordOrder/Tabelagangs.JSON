@@ -24,13 +24,13 @@
     "Items":["DoubleJump","Mundo","Kunai","pisao","IceParadise","CollateralRuin","soco","SusanooT","Susanoo","Susanoo_Tokyo","Hino","CorteCircular","DashCorvo","Rinnegan_Push","Susanoo_G"]
   },
   {
-    "Grupo":3,
+    "Grupo":34894857,
     "MinRank":2,
-    "GangNome":"Blue Lock",
+    "GangNome":"Akatsuki",
     "MaxHealth":5000,
-    "Nome":{"Letraakakakaka":[107,50,124],"Borda":[196,112,160]},
-    "Patente":{"Letraakakakaka":[125,187,221],"Borda":[255,255,255]},
-    "Team":{"Letraakakakaka":[123,46,47],"Borda":[0,0,0]},
+    "Nome":{"Letraakakakaka":[225,0,0],"Borda":[0,0,0]},
+    "Patente":{"Letraakakakaka":[225,0,0],"Borda":[0,0,0]},
+    "Team":{"Letraakakakaka":[225,0,0],"Borda":[0,0,0]},
     "Items":["Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"]
   },
   {
