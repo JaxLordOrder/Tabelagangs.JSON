@@ -4,7 +4,7 @@
     "MinRank": 1,
     "GangNome": "SoledBy",
     "MaxHealth": 5000,
-    "Nome": { "Letraakakakaka": [0, 0, 0], "Borda": [255, 255, 225] },
+    "Nome": { "Letraakakakaka": [225, 225, 225], "Borda": [227, 196, 255},
     "Patente": { "Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225] },
     "Team": { "Letraakakakaka": [0, 0, 0], "Borda": [255, 255, 225] },
     "Items": [
