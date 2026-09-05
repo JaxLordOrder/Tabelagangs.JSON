@@ -151,5 +151,15 @@
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 255, 255]},
     "Items": ["IceParadise", "CollateralRuin", "SusanooT", "Hino", "DoubleJump", "BlackHole", "Impulso", "Rinnegan"],
     "adicionais": {"Shirt": 8543255747, "Pants": 7449434927}
-  }
+  },
+  {
+    "Grupo": 872983737,
+    "MinRank": 1,
+    "GangNome": "Luas Superiores",
+    "MaxHealth": 5000,
+    "Nome": {"Letraakakakaka": [128, 0, 32], "Borda": [128, 0, 32]},
+    "Patente": {"Letraakakakaka": [128, 0, 32], "Borda": [128, 0, 32]},
+    "Team": {"Letraakakakaka": [128, 0, 32], "Borda": [128, 0, 32]},
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT"],
+    "adicionais": {"Shirt": 12601347767, "Pants": 1083479115}
 ]
