@@ -157,9 +157,9 @@
     "MinRank": 1,
     "GangNome": "Luas Superiores",
     "MaxHealth": 5000,
-    "Nome": {"Letraakakakaka": [128, 0, 32], "Borda": [128, 0, 32]},
-    "Patente": {"Letraakakakaka": [128, 0, 32], "Borda": [128, 0, 32]},
-    "Team": {"Letraakakakaka": [128, 0, 32], "Borda": [128, 0, 32]},
+    "Nome": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
+    "Patente": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
+    "Team": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT"],
     "adicionais": {"Shirt": 12601347767, "Pants": 1083479115}
     }
