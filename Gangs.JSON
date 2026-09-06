@@ -63,8 +63,8 @@
   {
     "Grupo": 11,
     "MinRank": 1,
-    "GangNome": "Kanto Manji Gang ギャング",
-    "MaxHealth": 9999999,
+    "GangNome": "Kanto Manji",
+    "MaxHealth": 750,
     "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
