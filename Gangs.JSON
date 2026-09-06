@@ -68,7 +68,7 @@
     "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
-    "Items": ["CorteCircular", "Mundo", "Kunai", "Impulso", "CorteCircular", "pisao"]
+    "Items": ["CorteCircular", "Mundo", "Kunai", "Impulso", "CorteCircular", "pisao","DoubleJump"]
   },
   {
     "Grupo": 77,
