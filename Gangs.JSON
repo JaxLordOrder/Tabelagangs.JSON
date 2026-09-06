@@ -45,9 +45,9 @@
     "MinRank": 5,
     "GangNome": "Neo Catalyst",
     "MaxHealth": 40000,
-    "Nome": {"Letraakakakaka": [225, 225, 225], "Borda": [255, 182, 193]},
-    "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 255, 255]},
-    "Team": {"Letraakakakaka": [255, 182, 193], "Borda": [255, 182, 193]},
+    "Nome": {"Letraakakakaka": [225, 225, 225], "Borda": [238, 130, 238]},
+    "Patente": {"Letraakakakaka": [225, 225, 255], "Borda": [238, 130, 238]},
+    "Team": {"Letraakakakaka": [255, 255, 255], "Borda": [238, 130, 238]},
     "Items": ["DoubleJump", "Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "SocoFlamejante", "Mundo", "Susanoo_Tokyo"]
   },
   {
