@@ -165,12 +165,12 @@
     },
     {
     "Grupo": 216601864,
-    "MinRank": 1,
+    "MinRank": 2,
     "GangNome": "Akatsuki",
     "MaxHealth": 750,
     "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
-    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT","DoubleJump","Mundo"]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT","DoubleJump", "Mundo"]
     }
   ]
