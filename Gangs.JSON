@@ -158,7 +158,7 @@
     "MaxHealth": 5000,
     "Nome": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
     "Patente": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
-    "Team": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
+    "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT"],
     "adicionais": {"Shirt": 12601347767, "Pants": 1083479115}
     },
@@ -167,8 +167,8 @@
     "MinRank": 2,
     "GangNome": "Akatsuki",
     "MaxHealth": 750,
-    "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
-    "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
+    "Nome": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 255, 225]},
+    "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "SusanooT","DoubleJump", "Mundo"]
     }
