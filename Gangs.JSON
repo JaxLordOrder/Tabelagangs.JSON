@@ -68,7 +68,7 @@
     "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
-    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT","DoubleJump"]
+    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT","DoubleJump","Mundo"]
   },
   {
     "Grupo": 77,
