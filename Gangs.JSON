@@ -17,7 +17,7 @@
     "Nome": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 105, 180]},
     "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 105, 180]},
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 105, 180]},
-    "Items": ["CollateralRuin", "Susanoo", "Kunai", "DoubleJump", "SusanooT", "Mundo", "Kunai", "ChuteKoku", "Hino", "pisao", "CorteCircular"]
+    "Items": ["CollateralRuin", "Susanoo", "Kunai", "DoubleJump", "Mundo", "Kunai", "ChuteKoku", "Hino", "pisao", "CorteCircular"]
   },
   {
     "Grupo": 12355,
@@ -47,7 +47,7 @@
     "Nome": {"Letraakakakaka": [225, 225, 225], "Borda": [238, 130, 238]},
     "Patente": {"Letraakakakaka": [225, 225, 255], "Borda": [238, 130, 238]},
     "Team": {"Letraakakakaka": [255, 255, 255], "Borda": [238, 130, 238]},
-    "Items": ["DoubleJump", "Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "SocoFlamejante", "Mundo", "Susanoo_Tokyo"]
+    "Items": ["DoubleJump", "Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Mundo"]
   },
   {
     "Grupo": 1009172145,
@@ -67,7 +67,7 @@
     "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
-    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT","DoubleJump","Mundo"]
+    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump","Mundo"]
   },
   {
     "Grupo": 77,
@@ -158,8 +158,7 @@
     "Nome": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
     "Patente": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
-    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "SusanooT"],
-    "adicionais": {"Shirt": 12601347767, "Pants": 1083479115}
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo"]
     },
     {
     "Grupo": 216601864,
@@ -169,6 +168,6 @@
     "Nome": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 255, 225]},
     "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225]},
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
-    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "SusanooT","DoubleJump", "Mundo"]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
     }
   ]
