@@ -169,7 +169,7 @@
     "MaxHealth": 750,
     "Nome": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 255, 225]},
     "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225]},
-    "Team": {"Letraakakakaka": [225, 0, 0], "Borda": [0, 0, 0]},
+    "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "SusanooT","DoubleJump", "Mundo"]
     }
   ]
