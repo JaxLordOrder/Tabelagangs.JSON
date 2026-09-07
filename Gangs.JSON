@@ -40,7 +40,7 @@
     "Items": ["Susanoo", "Raio", "Rinnegan", "Kokusen", "DoubleJump", "Kunai", "CollateralRuin", "Mundo", "CorteCircular"]
   },
   {
-    "Grupo": 7558628190000,
+    "Grupo": 7558628190000, -- de graça
     "MinRank": 5,
     "GangNome": "Neo Catalyst",
     "MaxHealth": 40000,
