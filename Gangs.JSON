@@ -67,7 +67,7 @@
     "Nome": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Patente": {"Letraakakakaka": [248, 248, 248], "Borda": [17, 17, 17]},
     "Team": {"Letraakakakaka": [151, 0, 0], "Borda": [17, 17, 17]},
-    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump","Mundo"]
+    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 112069840,
@@ -159,8 +159,8 @@
     "Patente": {"Letraakakakaka": [114, 47, 55], "Borda": [114, 47, 55]},
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo"]
-    },
-    {
+  },
+  {
     "Grupo": 216601864,
     "MinRank": 2,
     "GangNome": "Akatsuki",
@@ -169,15 +169,15 @@
     "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225]},
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
-    },
-    {
+  },
+  {
     "Grupo": 5059843,
     "MinRank": 2,
     "GangNome": "World Government",
     "MaxHealth": 750,
-    "Nome": {"Letraakakakaka": [[135, 206, 235]], "Borda": [135, 206, 235]},
+    "Nome": {"Letraakakakaka": [135, 206, 235], "Borda": [135, 206, 235]},
     "Patente": {"Letraakakakaka": [135, 206, 235], "Borda": [135, 206, 235]},
     "Team": {"Letraakakakaka": [135, 206, 235], "Borda": [135, 206, 235]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
-    }
-  ]
+  }
+]
