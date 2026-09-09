@@ -120,14 +120,14 @@
     "Items": ["Susanoo", "Raio", "CorteCircular"]
   },
   {
-    "Grupo": 9774,
+    "Grupo": 647794796,
     "MinRank": 1,
-    "GangNome": "Moebius",
+    "GangNome": "Moebius Gang",
     "MaxHealth": 750,
     "Nome": {"Letraakakakaka": [0, 0, 139], "Borda": [0, 0, 0]},
     "Patente": {"Letraakakakaka": [0, 0, 139], "Borda": [0, 0, 0]},
     "Team": {"Letraakakakaka": [0, 0, 139], "Borda": [0, 0, 0]},
-    "Items": ["CollateralRuin", "Susanoo", "Kunai", "ChuteVento"]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 35080558,
