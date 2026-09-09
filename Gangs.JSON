@@ -169,5 +169,15 @@
     "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225]},
     "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 0, 0]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
+    },
+    }
+    "Grupo": 5059843,
+    "MinRank": 2,
+    "GangNome": "World Government",
+    "MaxHealth": 750,
+    "Nome": {"Letraakakakaka": [[135, 206, 235]], "Borda": [135, 206, 235]},
+    "Patente": {"Letraakakakaka": [135, 206, 235], "Borda": [135, 206, 235]},
+    "Team": {"Letraakakakaka": [135, 206, 235], "Borda": [135, 206, 235]},
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
     }
   ]
