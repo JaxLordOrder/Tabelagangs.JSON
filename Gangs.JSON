@@ -124,9 +124,9 @@
     "MinRank": 1,
     "GangNome": "Moebius Gang",
     "MaxHealth": 750,
-    "Nome": {"Letraakakakaka": [0, 0, 139], "Borda": [0, 0, 0]},
-    "Patente": {"Letraakakakaka": [0, 0, 139], "Borda": [0, 0, 0]},
-    "Team": {"Letraakakakaka": [0, 0, 139], "Borda": [0, 0, 0]},
+    "Nome": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 255, 255]},
+    "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 255, 255]},
+    "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 0, 0]},
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
