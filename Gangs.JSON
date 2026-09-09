@@ -70,14 +70,14 @@
     "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump","Mundo"]
   },
   {
-    "Grupo": 77,
+    "Grupo": 112069840,
     "MinRank": 1,
-    "GangNome": "Os Hashiras",
+    "GangNome": "Goten",
     "MaxHealth": 750,
     "Nome": {"Letraakakakaka": [0, 0, 153], "Borda": [0, 0, 0]},
     "Patente": {"Letraakakakaka": [0, 0, 153], "Borda": [0, 0, 0]},
     "Team": {"Letraakakakaka": [0, 0, 153], "Borda": [0, 0, 0]},
-    "Items": ["DashCorvo", "ChuteEletrico", "SusanooT"]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 765,
