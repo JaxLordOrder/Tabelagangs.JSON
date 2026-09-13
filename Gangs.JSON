@@ -171,6 +171,17 @@
     "Items": ["ChuteKoku","Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
+  {
+    "Grupo": 34782392,
+    "MinRank":1,
+    "GangNome": "Yamaguchi Gumi",
+    "MaxHealth": 700000,
+    "Nome": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 255, 225]},
+    "Patente": {"Letraakakakaka": [0, 0, 0], "Borda": [225, 225, 225]},
+    "Team": {"Letraakakakaka": [0, 0, 0], "Borda": [255, 102, 0]},
+    "Items": ["ChuteKoku","Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo","Raio_FP","Impulso"]
+  },
+  {
     "Grupo": 5059843,
     "MinRank": 1,
     "GangNome": "World Government",
