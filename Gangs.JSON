@@ -16,16 +16,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 225]
     },
-    "Items": [
-      "Kunai",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "ChuteKoku",
-      "Susanoo"
-    ]
+    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo"]
   },
   {
     "Grupo": 324983539,
@@ -44,9 +35,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 105, 180]
     },
-    "Items": [
-      "CollateralRuin"
-    ]
+    "Items": ["CollateralRuin"]
   },
   {
     "Grupo": 32745400,
@@ -65,27 +54,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [227, 196, 255]
     },
-    "Items": [
-      "DoubleJump",
-      "Mundo",
-      "Kunai",
-      "pisao",
-      "IceParadise",
-      "CollateralRuin",
-      "soco",
-      "SusanooT",
-      "Susanoo",
-      "Susanoo_Tokyo",
-      "Hino",
-      "CorteCircular",
-      "DashCorvo",
-      "Rinnegan_Push",
-      "SocoFlamejante",
-      "ChuteKoku",
-      "BlackHole",
-      "Rinne",
-      "SusanooG"
-    ]
+    "Items": ["DoubleJump", "Mundo", "Kunai", "pisao", "IceParadise", "CollateralRuin", "soco", "SusanooT", "Susanoo", "Susanoo_Tokyo", "Hino", "CorteCircular", "DashCorvo", "Rinnegan_Push", "SocoFlamejante", "ChuteKoku", "BlackHole", "Rinne", "SusanooG"]
   },
   {
     "Grupo": 566,
@@ -104,17 +73,7 @@
       "Letraakakakaka": [225, 0, 0],
       "Borda": [0, 0, 0]
     },
-    "Items": [
-      "Susanoo",
-      "Raio",
-      "Rinnegan",
-      "Kokusen",
-      "DoubleJump",
-      "Kunai",
-      "CollateralRuin",
-      "Mundo",
-      "CorteCircular"
-    ]
+    "Items": ["Susanoo", "Raio", "Rinnegan", "Kokusen", "DoubleJump", "Kunai", "CollateralRuin", "Mundo", "CorteCircular"]
   },
   {
     "Grupo": 8888,
@@ -133,17 +92,7 @@
       "Letraakakakaka": [255, 255, 255],
       "Borda": [238, 130, 238]
     },
-    "Items": [
-      "DoubleJump",
-      "Kunai",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "ChuteKoku",
-      "Mundo"
-    ]
+    "Items": ["DoubleJump", "Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Mundo"]
   },
   {
     "Grupo": 868685654,
@@ -162,13 +111,7 @@
       "Letraakakakaka": [177, 156, 217],
       "Borda": [255, 255, 255]
     },
-    "Items": [
-      "Susanoo",
-      "Kokusen",
-      "Rinnegan",
-      "ChuteKoku",
-      "CollateralRuin"
-    ]
+    "Items": ["Susanoo", "Kokusen", "Rinnegan", "ChuteKoku", "CollateralRuin"]
   },
   {
     "Grupo": 5900,
@@ -187,18 +130,7 @@
       "Letraakakakaka": [151, 0, 0],
       "Borda": [17, 17, 17]
     },
-    "Items": [
-      "Kunai",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "ChuteKoku",
-      "Susanoo",
-      "DoubleJump",
-      "Mundo"
-    ]
+    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 111,
@@ -217,18 +149,7 @@
       "Letraakakakaka": [0, 0, 153],
       "Borda": [0, 0, 0]
     },
-    "Items": [
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "Susanoo",
-      "DoubleJump",
-      "Mundo"
-    ]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 765,
@@ -247,12 +168,7 @@
       "Letraakakakaka": [0, 255, 255],
       "Borda": [0, 0, 0]
     },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "Kunai",
-      "Impulso"
-    ]
+    "Items": ["CorteCircular", "Mundo", "Kunai", "Impulso"]
   },
   {
     "Grupo": 17,
@@ -271,14 +187,7 @@
       "Letraakakakaka": [170, 0, 0],
       "Borda": [0, 0, 0]
     },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "Kunai",
-      "Impulso",
-      "IceParadise",
-      "ChuteVoador"
-    ]
+    "Items": ["CorteCircular", "Mundo", "Kunai", "Impulso", "IceParadise", "ChuteVoador"]
   },
   {
     "Grupo": 35,
@@ -297,11 +206,7 @@
       "Letraakakakaka": [40, 127, 71],
       "Borda": [27, 42, 53]
     },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "CollateralRuin"
-    ]
+    "Items": ["CorteCircular", "Mundo", "CollateralRuin"]
   },
   {
     "Grupo": 871,
@@ -320,11 +225,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [85, 0, 0]
     },
-    "Items": [
-      "Susanoo",
-      "Raio",
-      "CorteCircular"
-    ]
+    "Items": ["Susanoo", "Raio", "CorteCircular"]
   },
   {
     "Grupo": 4444,
@@ -343,18 +244,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 0, 0]
     },
-    "Items": [
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "Susanoo",
-      "DoubleJump",
-      "Mundo"
-    ]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 5666,
@@ -373,27 +263,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 0]
     },
-    "Items": [
-      "DoubleJump",
-      "Mundo",
-      "Kunai",
-      "pisao",
-      "IceParadise",
-      "CollateralRuin",
-      "soco",
-      "SusanooT",
-      "Susanoo",
-      "Susanoo_Tokyo",
-      "Hino",
-      "CorteCircular",
-      "DashCorvo",
-      "Rinnegan_Push",
-      "SocoFlamejante",
-      "ChuteKoku",
-      "BlackHole",
-      "Rinne",
-      "Raio_FP"
-    ]
+    "Items": ["DoubleJump", "Mundo", "Kunai", "pisao", "IceParadise", "CollateralRuin", "soco", "SusanooT", "Susanoo", "Susanoo_Tokyo", "Hino", "CorteCircular", "DashCorvo", "Rinnegan_Push", "SocoFlamejante", "ChuteKoku", "BlackHole", "Rinne", "Raio_FP"]
   },
   {
     "Grupo": 97,
@@ -412,16 +282,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 255]
     },
-    "Items": [
-      "IceParadise",
-      "CollateralRuin",
-      "SusanooT",
-      "Hino",
-      "DoubleJump",
-      "BlackHole",
-      "Impulso",
-      "Rinnegan"
-    ],
+    "Items": ["IceParadise", "CollateralRuin", "SusanooT", "Hino", "DoubleJump", "BlackHole", "Impulso", "Rinnegan"],
     "adicionais": {
       "Shirt": 8543255747,
       "Pants": 7449434927
@@ -444,17 +305,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [225, 0, 0]
     },
-    "Items": [
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "ChuteKoku",
-      "Susanoo"
-    ]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo"]
   },
   {
     "Grupo": 20900,
@@ -473,19 +324,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [225, 0, 0]
     },
-    "Items": [
-      "ChuteKoku",
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "Susanoo",
-      "DoubleJump",
-      "Mundo"
-    ]
+    "Items": ["ChuteKoku", "Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
     "Grupo": 4666,
@@ -504,21 +343,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 102, 0]
     },
-    "Items": [
-      "ChuteKoku",
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "Susanoo",
-      "DoubleJump",
-      "Mundo",
-      "Raio_FP",
-      "Impulso"
-    ]
+    "Items": ["ChuteKoku", "Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo", "Raio_FP", "Impulso"]
   },
   {
     "Grupo": 4777,
@@ -537,17 +362,6 @@
       "Letraakakakaka": [135, 206, 235],
       "Borda": [135, 206, 235]
     },
-    "Items": [
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "Rinne",
-      "CorteCircular",
-      "pisao",
-      "Susanoo",
-      "DoubleJump",
-      "Mundo"
-    ]
+    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   }
 ]
