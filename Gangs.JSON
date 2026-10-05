@@ -138,16 +138,16 @@
     "GangNome": "Goten",
     "MaxHealth": 750,
     "Nome": {
-      "Letraakakakaka": [0, 0, 153],
-      "Borda": [0, 0, 0]
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [0, 0, 153]
     },
     "Patente": {
-      "Letraakakakaka": [0, 0, 153],
-      "Borda": [0, 0, 0]
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [0, 0, 153]
     },
     "Team": {
-      "Letraakakakaka": [0, 0, 153],
-      "Borda": [0, 0, 0]
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [0, 0, 153]
     },
     "Items": ["Susanoo","CollateralRuin"]
   },
