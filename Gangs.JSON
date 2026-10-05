@@ -133,7 +133,7 @@
     "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
-    "Grupo": 111,
+    "Grupo": 647794796,
     "MinRank": 1,
     "GangNome": "Goten",
     "MaxHealth": 750,
@@ -149,7 +149,7 @@
       "Letraakakakaka": [0, 0, 153],
       "Borda": [0, 0, 0]
     },
-    "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
+    "Items": ["Susanoo","CollateralRuin"]
   },
   {
     "Grupo": 765,
