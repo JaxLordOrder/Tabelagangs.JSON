@@ -2,7 +2,7 @@
   {
     "Grupo": 5,
     "MinRank": 1,
-    "GangNome": "SoledBy",
+    "GangNome": "Solo Leving之",
     "MaxHealth": 5000,
     "Nome": {
       "Letraakakakaka": [225, 225, 225],
@@ -16,7 +16,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 225]
     },
-    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo"]
+    "Items": [""]
   },
   {
     "Grupo": 324983539,
