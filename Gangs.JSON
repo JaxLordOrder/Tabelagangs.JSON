@@ -5,16 +5,16 @@
     "GangNome": "Solo Leving之",
     "MaxHealth": 5000,
     "Nome": {
-      "Letraakakakaka": [225, 225, 225],
-      "Borda": [227, 196, 255]
+      "Letraakakakaka": [227, 196, 255],
+      "Borda": [225, 225, 255]
     },
     "Patente": {
-      "Letraakakakaka": [255, 255, 225],
-      "Borda": [227, 196, 255]
+      "Letraakakakaka": [227, 196, 255],
+      "Borda": [225, 255, 255]
     },
     "Team": {
-      "Letraakakakaka": [255, 255, 225],
-      "Borda": [227, 196, 255]
+      "Letraakakakaka": [227, 196, 255],
+      "Borda": [225, 225, 225]
     },
     "Items": ["Kunai","SusanooT","CollateralRuin","DashCorvo","ChuteKoku"]
   },
