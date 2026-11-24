@@ -1,6 +1,6 @@
 [
   {
-    "Grupo": 62476784,
+    "Grupo": 10,
     "MinRank": 1,
     "GangNome": "Solo Leving之",
     "MaxHealth": 5000,
@@ -19,7 +19,7 @@
     "Items": ["Kunai","SusanooT","CollateralRuin","DashCorvo","ChuteKoku"]
   },
   {
-    "Grupo": 324983539,
+    "Grupo": 11,
     "MinRank": 2,
     "GangNome": "SoloXV",
     "MaxHealth": 750,
@@ -38,7 +38,7 @@
     "Items": ["SusanooT","Susanoo"]
   },
   {
-    "Grupo": 32745400,
+    "Grupo": 112,
     "MinRank": 2,
     "GangNome": "Eternity Order",
     "MaxHealth": 10000,
@@ -57,7 +57,7 @@
     "Items": ["DoubleJump", "Mundo", "Kunai", "pisao", "IceParadise", "CollateralRuin", "soco", "SusanooT", "Susanoo", "Susanoo_Tokyo", "Hino", "CorteCircular", "DashCorvo", "Rinnegan_Push", "SocoFlamejante", "ChuteKoku", "BlackHole", "Rinne", "SusanooG"]
   },
   {
-    "Grupo": 566,
+    "Grupo": 4300,
     "MinRank": 2,
     "GangNome": "União Soviética",
     "MaxHealth": 5000,
@@ -76,7 +76,7 @@
     "Items": ["Susanoo", "Raio", "Rinnegan", "Kokusen", "DoubleJump", "Kunai", "CollateralRuin", "Mundo", "CorteCircular"]
   },
   {
-    "Grupo": 8888,
+    "Grupo": 420,
     "MinRank": 5,
     "GangNome": "Neo Catalyst",
     "MaxHealth": 40000,
@@ -114,7 +114,7 @@
     "Items": ["Susanoo", "Kokusen", "Rinnegan", "ChuteKoku", "CollateralRuin"]
   },
   {
-    "Grupo": 5900,
+    "Grupo": 4398,
     "MinRank": 1,
     "GangNome": "Kanto Manji",
     "MaxHealth": 750,
@@ -133,7 +133,7 @@
     "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
-    "Grupo": 647794796,
+    "Grupo": 49382,
     "MinRank": 1,
     "GangNome": "Goten",
     "MaxHealth": 750,
@@ -282,10 +282,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 255]
     },
-    "Items": ["IceParadise", "CollateralRuin", "SusanooT", "Hino", "DoubleJump", "BlackHole", "Impulso", "Rinnegan"],
-    "adicionais": {
-      "Shirt": 8543255747,
-      "Pants": 7449434927
+    "Items": ["IceParadise", "CollateralRuin", "SusanooT", "Hino", "DoubleJump", "BlackHole", "Impulso", "Rinnegan"]
     }
   },
   {
