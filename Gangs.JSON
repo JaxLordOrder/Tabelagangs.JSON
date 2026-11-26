@@ -1,3 +1,4 @@
+
 [
   {
     "Grupo": 15623363,
@@ -16,7 +17,7 @@
       "Letraakakakaka": [255, 255, 255],
       "Borda": [0, 0, 0]
     },
-    "Items": ["Kunai","SusanooT","CollateralRuin","DashCorvo","ChuteKoku"]
+    "Items": ["Kunai", "SusanooT", "CollateralRuin", "DashCorvo", "ChuteKoku"]
   },
   {
     "Grupo": 11,
@@ -35,7 +36,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 105, 180]
     },
-    "Items": ["SusanooT","Susanoo"]
+    "Items": ["SusanooT", "Susanoo"]
   },
   {
     "Grupo": 965796112,
@@ -114,24 +115,24 @@
     "Items": ["Susanoo", "Kokusen", "Rinnegan", "ChuteKoku", "CollateralRuin"]
   },
   {
-  "Grupo": 996438302,
-  "MinRank": 1,
-  "GangNome": "Os Boludos",
-  "MaxHealth": 750,
-  "Nome": {
-    "Letraakakakaka": [0, 0, 0],
-    "Borda": [139, 0, 0]
+    "Grupo": 996438302,
+    "MinRank": 1,
+    "GangNome": "Os Boludos",
+    "MaxHealth": 750,
+    "Nome": {
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [139, 0, 0]
+    },
+    "Patente": {
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [139, 0, 0]
+    },
+    "Team": {
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [139, 0, 0]
+    },
+    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
   },
-  "Patente": {
-    "Letraakakakaka": [0, 0, 0],
-    "Borda": [139, 0, 0]
-  },
-  "Team": {
-    "Letraakakakaka": [0, 0, 0],
-    "Borda": [139, 0, 0]
-  },
-  "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
-}
   {
     "Grupo": 49382,
     "MinRank": 1,
@@ -149,7 +150,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [0, 0, 153]
     },
-    "Items": ["Susanoo","CollateralRuin"]
+    "Items": ["Susanoo", "CollateralRuin"]
   },
   {
     "Grupo": 765,
