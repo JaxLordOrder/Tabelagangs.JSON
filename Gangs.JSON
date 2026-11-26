@@ -114,21 +114,21 @@
     "Items": ["Susanoo", "Kokusen", "Rinnegan", "ChuteKoku", "CollateralRuin"]
   },
   {
-    "Grupo": 4398,
-    "MinRank": 1,
-    "GangNome": "Kanto Manji",
+    "Grupo": ,
+    "MinRank": 996438302,
+    "GangNome": "Os Boludos",
     "MaxHealth": 750,
     "Nome": {
-      "Letraakakakaka": [248, 248, 248],
-      "Borda": [17, 17, 17]
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [139, 0, 0]
     },
     "Patente": {
-      "Letraakakakaka": [248, 248, 248],
-      "Borda": [17, 17, 17]
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [139, 0, 0]
     },
     "Team": {
-      "Letraakakakaka": [151, 0, 0],
-      "Borda": [17, 17, 17]
+      "Letraakakakaka": [0, 0, 0],
+      "Borda": [139, 0, 0]
     },
     "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
   },
