@@ -342,21 +342,21 @@
     "Items": ["ChuteKoku", "Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo", "Raio_FP", "Impulso"]
   },
   {
-    "Grupo": 4777,
+    "Grupo": 171141578,
     "MinRank": 1,
-    "GangNome": "World Government",
+    "GangNome": "Ryuken",
     "MaxHealth": 750,
     "Nome": {
-      "Letraakakakaka": [135, 206, 235],
-      "Borda": [135, 206, 235]
+      "Letraakakakaka": [255, 0, 0],
+      "Borda": [255, 255, 255]
     },
     "Patente": {
-      "Letraakakakaka": [135, 206, 235],
-      "Borda": [135, 206, 235]
+      "Letraakakakaka": [255, 0, 0],
+      "Borda": [255, 255, 255]
     },
     "Team": {
-      "Letraakakakaka": [135, 206, 235],
-      "Borda": [135, 206, 235]
+      "Letraakakakaka": [255, 0, 0],
+      "Borda": [255, 255, 255]
     },
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   }
