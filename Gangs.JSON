@@ -38,7 +38,7 @@
     "Items": ["SusanooT","Susanoo"]
   },
   {
-    "Grupo": 112,
+    "Grupo": 965796112,
     "MinRank": 2,
     "GangNome": "雪 Prezas Da Neve 雪",
     "MaxHealth": 10000,
@@ -247,7 +247,7 @@
     "Items": ["Kunai", "SocoEletrico", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "Susanoo", "DoubleJump", "Mundo"]
   },
   {
-    "Grupo": 965796112,
+    "Grupo": 555,
     "MinRank": 11,
     "GangNome": "Tokyo Manji Gang",
     "MaxHealth": 1000000,
