@@ -263,7 +263,7 @@
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 0]
     },
-    "Items": ["DoubleJump", "Mundo", "Kunai", "pisao", "IceParadise", "CollateralRuin", "soco", "SusanooT", "Susanoo", "Susanoo_Tokyo", "Hino", "CorteCircular", "DashCorvo", "Rinnegan_Push", "SocoFlamejante", "ChuteKoku", "BlackHole", "Rinne", "Raio_FP"]
+    "Items": ["DoubleJump", "Mundo", "Kunai", "pisao", "IceParadise", "CollateralRuin", "soco", "SusanooT", "Susanoo", "Susanoo_Tokyo", "Hino", "CorteCircular", "DashCorvo", "Rinnegan_Push", "SocoFlamejante", "ChuteKoku", "BlackHole", "Rinne", "CollateralFP"]
   },
   {
     "Grupo": 512411678,
