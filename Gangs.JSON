@@ -114,24 +114,24 @@
     "Items": ["Susanoo", "Kokusen", "Rinnegan", "ChuteKoku", "CollateralRuin"]
   },
   {
-    "Grupo": ,
-    "MinRank": 996438302,
-    "GangNome": "Os Boludos",
-    "MaxHealth": 750,
-    "Nome": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [139, 0, 0]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [139, 0, 0]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [139, 0, 0]
-    },
-    "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
+  "Grupo": 996438302,
+  "MinRank": 1,
+  "GangNome": "Os Boludos",
+  "MaxHealth": 750,
+  "Nome": {
+    "Letraakakakaka": [0, 0, 0],
+    "Borda": [139, 0, 0]
   },
+  "Patente": {
+    "Letraakakakaka": [0, 0, 0],
+    "Borda": [139, 0, 0]
+  },
+  "Team": {
+    "Letraakakakaka": [0, 0, 0],
+    "Borda": [139, 0, 0]
+  },
+  "Items": ["Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Susanoo", "DoubleJump", "Mundo"]
+}
   {
     "Grupo": 49382,
     "MinRank": 1,
