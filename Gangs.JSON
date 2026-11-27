@@ -77,21 +77,21 @@
     "Items": ["Susanoo", "Raio", "Rinnegan", "Kokusen", "DoubleJump", "Kunai", "CollateralRuin", "Mundo", "CorteCircular"]
   },
   {
-    "Grupo": 420,
+    "Grupo": 171141578,
     "MinRank": 5,
-    "GangNome": "Neo Catalyst",
+    "GangNome": "Ryuken",
     "MaxHealth": 40000,
     "Nome": {
-      "Letraakakakaka": [225, 225, 225],
-      "Borda": [238, 130, 238]
+      "Letraakakakaka": [255, 0, 0],
+      "Borda": [255, 255, 255]
     },
     "Patente": {
-      "Letraakakakaka": [225, 225, 255],
-      "Borda": [238, 130, 238]
+      "Letraakakakaka": [255, 0, 0],
+      "Borda": [255, 255, 255]
     },
     "Team": {
-      "Letraakakakaka": [255, 255, 255],
-      "Borda": [238, 130, 238]
+      "Letraakakakaka": [255, 0, 0],
+      "Borda": [255, 255, 255]
     },
     "Items": ["DoubleJump", "Kunai", "Hino", "CollateralRuin", "Rinne", "CorteCircular", "pisao", "ChuteKoku", "Mundo"]
   },
